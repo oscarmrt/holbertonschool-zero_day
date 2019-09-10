@@ -1,0 +1,1 @@
+#Creating a new directory called 0x00-vagrant adding a README.md and then creating a file named 0-hello_ubuntu with contanins the answer Linux when you type uname without any option
